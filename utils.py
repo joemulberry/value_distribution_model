@@ -266,7 +266,7 @@ def get_css():
 def create_logos():
     return {
         'fcn': '<img src ="https://github.com/FCrSTATS/helper/blob/main/images/FCN%20Logo%20R&Y.png?raw=true" class="centered-image" width="100"></img>',
-        'sdfc': '<img src="https://github.com/FCrSTATS/helper/blob/b06f01ad9f64911708408070b5b39bbe8b915cca/images/sdfc%20lgoo.png?raw=true" class="centered-image" width="100"></img>',
+        'sdfc': '<img src="https://github.com/joemulberry/value_distribution_model/blob/main/images/sdfc%20lgoo%20blue.png?raw=true" class="centered-image" width="100"></img>',
         'rtd_g': '<img src="https://github.com/FCrSTATS/helper/blob/main/images/RTD_Academy_Crests_Ghana.png?raw=true" class="centered-image" width="100"></img>',
         'rtd_u': '<img src="https://github.com/FCrSTATS/helper/blob/main/images/rtd_usa.png?raw=true" class="centered-image" width="100"></img>',
         'rtd_e': '<img src="https://github.com/FCrSTATS/helper/blob/main/images/RTD_Academy_Crests_Egypt.png?raw=true" class="centered-image" width="100"></img>',
