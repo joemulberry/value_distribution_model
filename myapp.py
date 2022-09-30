@@ -4,7 +4,6 @@ from dataclasses import dataclass, field
 import streamlit as st
 import pandas as pd
 from random import randint
-from matplotlib import pyplot as plt
 from utils import calculate_points, create_summary_text, get_css, create_logos
 from players import get_players
 from settings import get_initial_values
